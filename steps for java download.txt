@@ -1,0 +1,8 @@
+javac
+java --version
+java download
+JAVA DOWNLOAD
+JDK 17
+WINDOWS
+.exe file
+download
